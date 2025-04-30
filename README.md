@@ -1,0 +1,1 @@
+Program tersebut merupakan sistem klasifikasi kesuburan tanah menggunakan algoritma machine learning K-Nearest Neighbors (KNN) dan Support Vector Machine (SVM). Data input diperoleh dari file CSV yang berisi fitur lingkungan seperti suhu, kelembapan udara, pH tanah, dan kelembapan tanah. 
